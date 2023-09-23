@@ -32,11 +32,11 @@ To prepare a sufficient amount of data for both training a VGG16 CNN model and a
 ## Training Model
 After preparing the completed data files for model training, a VGG16 algorithm was chosen, and the model architecture was redesigned to be more suitable for the purpose and data files of this problem. The architecture includes layers, activation functions, loss functions, and optimization algorithms. Finally, the model structure used to train the model will be displayed
 
-![ML model architecture](https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/357367730_1023041391982354_5632036022773610692_n.png?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GyjI2Wcw0JQAX9TwF_A&_nc_ht=scontent.fsgn5-12.fna&oh=03_AdR-mqebrP1p9i21bAjJJxE_5o7zsTdDHOdoEvJQM4R2oA&oe=64C5053D)
+![ML model architecture](https://res.cloudinary.com/quando52/image/upload/v1695494156/ML_Arc_dxo9av.png)
 
 The accuracy and validation loss metrics of the trained model are examined to assess its performance, as shown in the following figure. 
 
-![The accuracy and the loss of model](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/356987701_1263775810931515_2202132999841238765_n.png?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=uhD_TCJvlwIAX9J_2qp&_nc_ht=scontent.fsgn5-15.fna&oh=03_AdQE5OMXr63aKkDVxDmj8YVdAo0pOfTVwBibMCVMHReZXg&oe=64C52C27)
+![The accuracy and the loss of model](https://res.cloudinary.com/quando52/image/upload/v1695494156/Acc_vs_Loss_of_Model_hsnqan.png)
 
 ## Results
 
@@ -46,27 +46,27 @@ The accuracy and validation loss metrics of the trained model are examined to as
 
 ### Digital Library homepage
 
-![Digital Library homepage](https://res.cloudinary.com/quando52/image/upload/v1695493298/Digital_Library_Homepage_fgkzh3.png)
+![Digital Library homepage]()
 
 ### List of books
 
-![List of books](https://res.cloudinary.com/quando52/image/upload/v1695493297/Books_s_List_page_hzylxg.png)
+![List of books](https://res.cloudinary.com/quando52/image/upload/v1695494157/Book_List_f2rqcp.png)
 
 ### Book information page
 
-![### Book information page](https://res.cloudinary.com/quando52/image/upload/v1695493297/Book_page_tq3aqf.png)
+![### Book information page](https://res.cloudinary.com/quando52/image/upload/v1695494365/Book_information_trbgpv.png)
 
 ### Admin Dashboard homepage
 
-![Admin Dashboard homepage](https://res.cloudinary.com/quando52/image/upload/v1695493297/Admin_Dashboard_Homepage_cyknjl.png)
+![Admin Dashboard homepage](https://res.cloudinary.com/quando52/image/upload/v1695494364/Admin_Home_ar2gxg.png)
 
 ### Book managemnet page
 
-![Book managemnet page](https://res.cloudinary.com/quando52/image/upload/v1695493298/List_page_z1jjtp.png)
+![Book managemnet page](https://res.cloudinary.com/quando52/image/upload/v1695494335/Book_manage_o89w1r.png)
 
 ### Create a new book page
 
-![Create new book page](https://res.cloudinary.com/quando52/image/upload/v1695493298/Create_new_account_page_jn0rlh.png)
+![Create new book page](https://res.cloudinary.com/quando52/image/upload/v1695494364/Book_create_g9ex7v.png)
 
 ## Conclusion
 

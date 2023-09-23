@@ -42,11 +42,12 @@ The accuracy and validation loss metrics of the trained model are examined to as
 
 ### Finding similar images page
 
-![Finding similar images page](https://scontent.fsgn5-2.fna.fbcdn.net/v/t1.15752-9/357411035_1300742657483123_8158075888394979946_n.png?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mCzZ84ETFpsAX9Mlgnn&_nc_ht=scontent.fsgn5-2.fna&oh=03_AdRH9CgcFnT00kHbLp_m8F7kXf2ES9CL4gOmcYQKpmbasQ&oe=64C52665)
+![Finding similar images page](https://res.cloudinary.com/quando52/image/upload/v1695494549/find_book_rcoqac.png)
 
 ### Digital Library homepage
 
-![Digital Library homepage]()
+![Digital Library homepage](https://res.cloudinary.com/quando52/image/upload/v1695494549/lib_hom1_xp0keu.png)
+![Digital Library homepage 2](https://res.cloudinary.com/quando52/image/upload/v1695494549/lib_hom2_sn4g0o.png)
 
 ### List of books
 

@@ -17,13 +17,13 @@ Besides developing a website "Digital Library", I will also apply a Machine Lear
 
 To develop both a digital library simulation website as well as apply a machine learning model in finding images of book covers that match the input, it is necessary to clearly define how to design a whole system. The system will be built as figure below:
 
-![Tier 2 Diagram of Digital Library System](https://scontent.fsgn5-9.fna.fbcdn.net/v/t1.15752-9/357368730_1287376012143130_4100978643304128255_n.png?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=MCR7e6Pf6IIAX-XSFOC&_nc_ht=scontent.fsgn5-9.fna&oh=03_AdSQZzF80ymBwfd6p_HHRHzzLkbY0s72KHuAecmvEGhEYQ&oe=64C51E4A)
+![Tier 2 Diagram of Digital Library System](https://res.cloudinary.com/quando52/image/upload/v1695493233/Tier_2_Diagram_hvpxhv.png)
 
 ### Machine Learning Model
 
 The transferred learning model is based on the VGG16 pre-trained model architecture trained on the [ImageNet dataset]( https://www.image-net.org/about.php) with 14 million images. However, the model has been fine-tuned to fit the image classification task of "Book" and "Comic-book" with two output classes. 
 
-![Pipeline system for training ML model](https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/357140136_728447995957913_8192066841618963585_n.png?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=wzyKS7bVp6MAX8VJhZc&_nc_ht=scontent.fsgn5-12.fna&oh=03_AdTE8U_Mt_EpnPvWV0nHXtxhctyfs8IS3rC7eeatp-GjSA&oe=64C521C4)
+![Pipeline system for training ML model](https://res.cloudinary.com/quando52/image/upload/v1695493233/Pipeline_ML_fk06cv.png)
 
 ### Dataset
 
@@ -46,27 +46,27 @@ The accuracy and validation loss metrics of the trained model are examined to as
 
 ### Digital Library homepage
 
-![Digital Library homepage](https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.15752-9/357567734_960672578491973_2756017332541395369_n.png?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GS9UiLXv89sAX-ukE8x&_nc_ht=scontent.fsgn5-14.fna&oh=03_AdR9h1ZVa06T18gwtvOcjiq2ZuJRdQf5E-2Z704LmOk9Zw&oe=64C51B47)
+![Digital Library homepage](https://res.cloudinary.com/quando52/image/upload/v1695493298/Digital_Library_Homepage_fgkzh3.png)
 
 ### List of books
 
-![List of books](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/357334387_678563584102931_7891635222276835215_n.png?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=hl5CoRgS2-IAX-oTcLU&_nc_ht=scontent.fsgn5-15.fna&oh=03_AdS5ByhueS1cIK5_3mJfl86kVVDIVbqT6MqrZAOAcR2Ydg&oe=64C532F8)
+![List of books](https://res.cloudinary.com/quando52/image/upload/v1695493297/Books_s_List_page_hzylxg.png)
 
 ### Book information page
 
-![### Book information page](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/357415749_811723900609489_3085173752442810890_n.png?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QjgjcdxtBR8AX_WJWpQ&_nc_ht=scontent.fsgn5-10.fna&oh=03_AdTWT4sKhGrRcgsCAYWO7S6Di-fjwTZ3DpSmEgspWMotig&oe=64C52DCD)
+![### Book information page](https://res.cloudinary.com/quando52/image/upload/v1695493297/Book_page_tq3aqf.png)
 
 ### Admin Dashboard homepage
 
-![Admin Dashboard homepage](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/357317597_1029312788430732_1904560745511981404_n.png?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=MahnGWnAWAIAX9e5NfR&_nc_ht=scontent.fsgn5-15.fna&oh=03_AdTiBROWxh_-BWjLEBMEHNITh-M1Zp_SLxolDrkjyTZCig&oe=64C53BEA)
+![Admin Dashboard homepage](https://res.cloudinary.com/quando52/image/upload/v1695493297/Admin_Dashboard_Homepage_cyknjl.png)
 
 ### Book managemnet page
 
-![Book managemnet page](https://scontent.fsgn5-13.fna.fbcdn.net/v/t1.15752-9/357390482_6343970269021151_7450217158397975613_n.png?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=RMK9CLvojdAAX9VyzZp&_nc_ht=scontent.fsgn5-13.fna&oh=03_AdRO13iULJXQn8BJ9_tpGDNcdZ5bCIApAYeSrv4U5Svm6A&oe=64C53C2D)
+![Book managemnet page](https://res.cloudinary.com/quando52/image/upload/v1695493298/List_page_z1jjtp.png)
 
 ### Create a new book page
 
-![Create new book page](https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/357524367_200601892595359_4015732740542187546_n.png?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=_CBr90IfSpsAX-rcL8j&_nc_ht=scontent.fsgn5-12.fna&oh=03_AdRMS_oK3ecCoKxn_RAn-jiFV7Gv4qoKR4U7d4akqT1-dw&oe=64C5249B)
+![Create new book page](https://res.cloudinary.com/quando52/image/upload/v1695493298/Create_new_account_page_jn0rlh.png)
 
 ## Conclusion
 
